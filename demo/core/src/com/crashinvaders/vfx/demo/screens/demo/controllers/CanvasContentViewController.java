@@ -101,7 +101,7 @@ public class CanvasContentViewController extends LmlViewController {
 
         // Logo
         {
-            Texture texture = assets.get("gdx-vfx-logo.png");
+            Texture texture = assets.get("myaaau.gif");
             Image imageLogo = new Image(texture);
             imageLogo.setOrigin(Align.center);
             // Wrap into first container to setup size.

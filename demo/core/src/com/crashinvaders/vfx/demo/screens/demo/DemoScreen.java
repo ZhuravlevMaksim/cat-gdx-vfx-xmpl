@@ -69,7 +69,7 @@ public class DemoScreen extends ScreenAdapter {
                 paramsRepeat.wrapU = Texture.TextureWrap.Repeat;
                 paramsRepeat.wrapV = Texture.TextureWrap.Repeat;
 
-                assets.load("gdx-vfx-logo.png", Texture.class, paramsRegular);
+                assets.load("myaaau.gif", Texture.class, paramsRegular);
                 assets.load("bg-scene-pattern.png", Texture.class, paramsRepeat);
                 assets.load("bg-transparency-tile.png", Texture.class, paramsRegular);
             }
